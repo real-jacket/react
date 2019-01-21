@@ -1,0 +1,9 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "一个react练习",
+  "main": "index.js",
+  "repository": "git@github.com:real-jacket/react.git",
+  "author": "jacket <jacket@gmail.com>",
+  "license": "MIT"
+}
